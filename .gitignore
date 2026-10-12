@@ -1,0 +1,32 @@
+# ===== Visual Studio 编译产物 =====
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+
+# ===== Visual Studio 用户设置 =====
+*.vcxproj.user
+*.suo
+*.user
+
+# ===== 编译中间文件 =====
+*.pch
+*.ipch
+*.sdf
+*.opensdf
+*.cache
+
+# ===== 其他 =====
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
